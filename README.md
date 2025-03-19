@@ -44,6 +44,3 @@ npm run lint
 <div align="center">
 <p><i>Developed by <a href="https://www.linkedin.com/in/bianca-dias-372a321a2/">Bianca Dias</i></p>
 </div>
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
