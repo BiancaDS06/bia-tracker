@@ -13,7 +13,7 @@ Este é um simples cronômetro desenvolvido com Vue.js. Ele permite a contagem d
 ## 🎯 Funcionalidades
 
 - ✅ Iniciar contagem do tempo
-- 🌙 Alternar entre modo claro e escuro (se houver)
+- 🌙 Alternar entre modo claro e escuro
 
 ## 📸 Demonstração
 
